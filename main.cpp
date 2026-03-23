@@ -59,7 +59,7 @@ int main(int argc, char* argv[]) {
   for(i=0;i<N;i++){
     if(a[i].get_age() == young) {
     a[i].print_name();
-    cout<<"age: "<<young<<endl;
+    cout<<"Age: "<<young<<endl;
     }
   }
   // Print all info for the yougest person
